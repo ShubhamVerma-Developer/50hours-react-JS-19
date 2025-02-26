@@ -1,8 +1,8 @@
-import WelcomeMessage from "./components/WelcomeMessage";
+import JSXRules from "./components/JSXRules";
 
 function App() {
   return <div>
-    <WelcomeMessage />
+    <JSXRules />  
   </div>
 }
 
