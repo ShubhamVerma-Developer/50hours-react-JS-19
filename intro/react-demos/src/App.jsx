@@ -1,10 +1,13 @@
-import Add from "./components/Add";
-import Greet from "./components/Greeting";
+
+import Footer from "./components/Footer";
+import Header from "./components/Header";
+import MainContent from "./components/MainContent";
 
 function App() {
   return <div>
-    <Add />
-    <Greet />
+    <Header />
+    <MainContent />
+    <Footer />
   </div>
 }
 
